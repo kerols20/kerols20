@@ -1,42 +1,26 @@
-# 👋 Hi there, I'm Kerols20!
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=john-safwat&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=john-safwat&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=john-safwat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-I'm a passionate **Flutter Developer** building beautiful, performant, and scalable mobile solutions.
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=john-safwat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+# 💫 About Me:
+About Me:<br>👋 Hi, I'm John Safwat, a passionate Flutter Developer with a strong background in computer science and a focus on mobile app development.<br><br>🔭 I’m currently working on:<br>Developing innovative mobile applications, including a comprehensive guide app for Valorant. I'm also enhancing my skills by experimenting with nested RecyclerViews in Android apps.<br><br>👯 I’m looking to collaborate on:<br>Exciting mobile and desktop application projects, especially those that push the boundaries of what's possible with Flutter.<br><br>🤝 I’m looking for help with:<br>Improving performance and optimizing state management in complex Flutter applications, as well as expanding my knowledge of clean architecture patterns.<br><br>🌱 I’m currently learning:<br>Advanced Flutter techniques, API integration, MVVM, MVI architecture patterns, and best practices for cross-platform app development.<br><br>💬 Ask me about:<br>Anything related to Flutter, Firebase integration, state management using Provider and GetX, and how to create seamless user experiences.<br><br>⚡ Fun fact:<br>When I’m not coding, I enjoy diving deep into video games like Valorant, analyzing their mechanics, and thinking about how I can bring similar experiences into the apps I develop.
 
-## 🚀 About Me
 
-- 💻 Experienced in Dart & Flutter (state management, REST APIs, animations, architecture)
-- 📱 I build apps for Android & iOS using a single codebase
-- 🧑‍💻 Always exploring new technologies, staying up-to-date with the Flutter ecosystem
-- ✍️ Believer in clean code, test-driven development, and great UX/UI
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/johnsafwat) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/john.safwat.77/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/john_s_911/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/john-safwat-b3645427a/) 
 
-## 🛠️ Technologies & Skills
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-- **Languages:** Dart, JavaScript, Python
-- **Frameworks:** Flutter, Firebase, Provider, Bloc, Riverpod
-- **Tools:** VSCode, Android Studio, Git, GitHub Actions
-- **Other:** RESTful APIs, Figma, CI/CD, Responsive Design, Unit/Widget Testing
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-## 💼 Featured Projects
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Awesome Flutter App** | A showcase app demonstrating advanced animations and state management. | [GitHub Repo](#) |
-| **Weatherly** | Clean architecture sample for weather data with REST API. | [GitHub Repo](#) |
-
-## 🌱 Currently Learning
-
-- Animations & Custom Paint in Flutter
-- Advanced state management (cubit & Bloc)
-
-## 📫 Contact Me
-
-- GitHub: [kerols20](https://github.com/kerols20)
-- Email: kokoqaw4@gmail.com
-- LinkedIn:[kerolos-adel](https://www.linkedin.com/in/kerolos-adel-11839534a/)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=john-safwat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-_Thanks for visiting my profile!_
-
-<!-- You can add badges, GitHub Stats, contribution graphs, etc. for more effects! -->
+[![](https://visitcount.itsvg.in/api?id=john-safwat&icon=0&color=0)](https://visitcount.itsvg.in)
+###
