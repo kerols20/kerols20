@@ -1,8 +1,7 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=john-safwat&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=john-safwat&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=john-safwat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=kerols20&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kerols20&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kerols20&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=john-safwat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 # 💫 About Me:
