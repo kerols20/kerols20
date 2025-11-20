@@ -5,7 +5,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=john-safwat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 # 💫 About Me:
-About Me:<br>👋 
+About Me:<br>👋 hello Iam Kerolos Adel, a Flutter Developer with a strong focus on creating efficient, scalable, and user-friendly mobile applications.
+I’m passionate about clean architecture, state management, and API integration.
+I love exploring new technologies, contributing to open-source projects, and constantly improving my coding skills.
 
 
 ## 🌐 Socials:
